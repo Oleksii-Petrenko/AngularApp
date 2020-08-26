@@ -19,4 +19,6 @@ export class AppComponent {
     {id: 2, title:"купить масло", completed:true, date: new Date()},
     {id: 3, title:"купить пиво", completed:false, date: new Date()},
   ]
+
+
 }
